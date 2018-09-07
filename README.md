@@ -7,6 +7,8 @@ A curated list of awesome artifacts related to brainstorming, creativity and use
 - [The Emotional Culture Deck](https://theemotionalculturedeck.com/) - Build a more human & empathetic workplace
 - [Form Cards WIP](https://form.cards) - Helping product teams form and transform their practice
 - [Universal Favourite](https://universalfavourite.com.au/projects/design-thinking-toolkit-for-councils/) - Design thinking toolkit for councils
+- [Information Architecture Lenses](https://www.thegamecrafter.com/games/information-architecture-lenses) -  Help designers look at their information architecture decisions
+- [Pensulo](https://dribbble.com/shots/3794375-Pensulo-Card-Deck) - Creative block breaking thinking cards
 
 ## Card Sites
 - [UI Goodies](http://uigoodies.com/) - Useful resources for Designers and UI Developers
