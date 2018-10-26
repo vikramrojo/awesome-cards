@@ -11,6 +11,8 @@ A curated list of awesome artifacts related to brainstorming, creativity and use
 - [Surviving Design Projects](https://www.thegamecrafter.com/games/surviving-design-projects-v2) - Solving design projects' most difficult situations. With cards.
 - [Pensulo](https://dribbble.com/shots/3794375-Pensulo-Card-Deck) - Creative block breaking thinking cards
 - [Sprint Retrospective Cards](http://www.edgarallan.com/shop/sprint-retrospective-cards) - Cards for facilitating project retrospectives
+- [Brand Deck](https://branding.cards/) - Identify your brand’s characteristics
+- [Ship It!](https://postlight.com/about/news/ship-it-the-game-of-product-management) - Game about the trials and tribulations of shipping software
 
 ## Card Sites
 - [Mozilla Open Innovation Toolkit](https://toolkit.mozilla.org/) - A set of best practices and principles to help you incorporate human-centered design
