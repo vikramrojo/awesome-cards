@@ -9,7 +9,7 @@ A curated list of awesome artifacts related to brainstorming, creativity and use
 - [Universal Favourite](https://universalfavourite.com.au/projects/design-thinking-toolkit-for-councils/) - Design thinking toolkit for councils
 - [Information Architecture Lenses](https://www.thegamecrafter.com/games/information-architecture-lenses) -  Help designers look at their information architecture decisions
 - [Surviving Design Projects](https://www.thegamecrafter.com/games/surviving-design-projects-v2) - Solving design projects' most difficult situations. With cards.
-- [Pensulo](https://dribbble.com/shots/3794375-Pensulo-Card-Deck) - Creative block breaking thinking cards
+- [Pensulo](https://www.makeplayingcards.com/sell/servicedesign) - Creative block breaking thinking cards
 - [Sprint Retrospective Cards](http://www.edgarallan.com/shop/sprint-retrospective-cards) - Cards for facilitating project retrospectives
 - [Brand Deck](https://branding.cards/) - Identify your brand’s characteristics
 - [Ship It!](https://postlight.com/about/news/ship-it-the-game-of-product-management) - Game about the trials and tribulations of shipping software
