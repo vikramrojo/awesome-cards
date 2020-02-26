@@ -14,6 +14,7 @@ A curated list of awesome artifacts related to brainstorming, creativity and use
 - [Brand Deck](https://branding.cards/) - Identify your brand’s characteristics
 - [Ship It!](https://postlight.com/about/news/ship-it-the-game-of-product-management) - Game about the trials and tribulations of shipping software
 - [Method Cards](https://stoutbooks.com/products/ideo-method-cards-51-ways-to-inspire-design-61457) - Methods to inspire great design and keep people at the center of a design process
+- [1:1 Starter Pack](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack) - Questions for 1:1 meetings to inspire more conversations. Topics: Leadership, Organizational Culture, Career Planning, Productivity, Work-Life Balance, Communication, Decision Making, Innovation
 
 ## Card Sites
 - [Mozilla Open Innovation Toolkit](https://toolkit.mozilla.org/) - A set of best practices and principles to help you incorporate human-centered design
